@@ -1,0 +1,4 @@
+com\example\curriculoeste\model\Curriculo.class
+com\example\curriculoeste\Repository\CurriculoRepository.class
+com\example\curriculoeste\CurriculoApplication.class
+com\example\curriculoeste\Controller\CurriculoController.class
